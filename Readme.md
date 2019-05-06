@@ -23,6 +23,7 @@
     * HDMI video
     * Hyper-scalar design
     * Can also run a modern, secure OS
+    * Included modern systems programming language built in, Nim and C
 * New concepts
   * Bit addressable, long length addresses and words (9 Exabits)
   * Hardware support for non-executable data segments, segment boundry violations (a.k.a. buffer overrun), indirection, state suspension all instructions
