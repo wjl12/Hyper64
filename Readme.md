@@ -22,6 +22,7 @@
     * Sound and waveform generation (D/A); sampling (A/D)
     * HDMI video
     * Hyper-scalar design
+    * Can also run a modern, secure OS
 * New concepts
   * Bit addressable, long length addresses and words (9 Exabits)
   * Hardware support for non-executable data segments, segment boundry violations (a.k.a. buffer overrun), indirection, state suspension all instructions
