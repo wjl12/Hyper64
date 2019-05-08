@@ -1,0 +1,9 @@
+* load/store
+* mult/div
+* add/sub
+* rotl/rotr
+* shftl/shftr
+* ifeq/ifneq/iflt/iflteq/ifgt/ifgteq
+* jmp/call/ret/system
+* int
+* chmod
